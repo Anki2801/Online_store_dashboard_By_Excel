@@ -21,7 +21,7 @@ So, To perform analytics i choose MS excel as it has that capabilities that can 
 2. Founded and check Blanks and subtituted with their respecttive mean,median,mode values.
 3. Than created Age group column to check age distibution among buyers.
 4. Tahn created a month column by help of text formuls.
-2. *Pivot chart**
+2. **Pivot chart**
 1. After pre-processing process with help of pivot table able to answer such questions related to data.
 2. For visualization i used pivot chart that offers hug number of graphs.
 3. By Histogram, Bardiagram, Pie chart i created a interactive dash board.
